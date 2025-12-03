@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 强制重置样式 */
+:root {
+  font-family: 'Courier New', Courier, monospace; /* 强制打字机字体 */
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light; /* 强制亮色模式 */
+  background-color: #F9F7F3; /* 米白背景 */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #F9F7F3 !important; /* 加 !important 防止被覆盖 */
+  color: #333333;
+}
+
+/* 修复可能的 SVG 显示问题 */
+svg {
+  display: block;
+}

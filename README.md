@@ -13,6 +13,7 @@
 > DeepInterview.ai is a minimalist, AI-powered React application designed to help job seekers transform vague experience descriptions into **Result-Oriented**, **Data-Driven** resume bullet points.
 <img width="2706" height="1496" alt="image" src="https://github.com/user-attachments/assets/fc481dfa-60d4-46f6-9dd7-c5365c520341" />
 
+<img width="2902" height="1464" alt="image" src="https://github.com/user-attachments/assets/1f5aa0c8-f5e1-494d-906d-e8f6d7a7b10b" />
 
 
 
